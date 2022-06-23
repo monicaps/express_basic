@@ -1,0 +1,27 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Proyecto hecho con Node JS y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaps/express_basic.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js"
+  ],
+  "author": "Monica Portillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaps/express_basic/issues"
+  },
+  "homepage": "https://github.com/monicaps/express_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
